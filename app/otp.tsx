@@ -154,7 +154,6 @@ const Otp = () => {
                             placeHolder="Select a country"
                             dropdownStyle={styles.listItem}
                         />
-                        <Ionicons name="chevron-down" size={20} color={colors.green} />
                     </View>
                     <View style={styles.separator} />
 
